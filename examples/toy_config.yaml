@@ -1,0 +1,12 @@
+work_dir: ./work/toy
+alphabet: ACDEFGHIKLMNPQRSTVWY
+length: 4
+budget: 24
+batch_size: 4
+seed: 17
+policy:
+  name: simple_genetic
+  mutation_rate: 0.25
+evaluator:
+  name: toy
+  seed: 101

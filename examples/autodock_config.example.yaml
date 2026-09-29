@@ -1,0 +1,16 @@
+work_dir: ./work/autodock_demo
+alphabet: ACDEFGHIKLMNPQRSTVWY
+length: 4
+budget: 12
+batch_size: 2
+seed: 23
+policy:
+  name: simple_genetic
+  mutation_rate: 0.20
+evaluator:
+  name: autodock_gpu
+  executable: autodock_gpu_128wi
+  receptor_fld: /path/to/Target_A.maps.fld
+  ligand_dir: /path/to/prepared_ligands
+  dlg_dir: ./work/autodock_demo/dlg
+  extra_args: []

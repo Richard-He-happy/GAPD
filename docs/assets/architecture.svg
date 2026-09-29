@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="320" viewBox="0 0 980 320">
+  <rect width="980" height="320" fill="white"/>
+  <g font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#111">
+    <rect x="40" y="120" width="140" height="70" rx="12" fill="#f2f2f2" stroke="#333"/><text x="110" y="162">Config / CLI</text>
+    <rect x="240" y="55" width="170" height="70" rx="12" fill="#f2f2f2" stroke="#333"/><text x="325" y="97">PeptideSpace</text>
+    <rect x="240" y="190" width="170" height="70" rx="12" fill="#f2f2f2" stroke="#333"/><text x="325" y="232">SearchPolicy</text>
+    <rect x="480" y="120" width="160" height="70" rx="12" fill="#f2f2f2" stroke="#333"/><text x="560" y="162">Cache / Batch</text>
+    <rect x="710" y="120" width="150" height="70" rx="12" fill="#f2f2f2" stroke="#333"/><text x="785" y="162">Evaluator</text>
+    <rect x="480" y="235" width="160" height="55" rx="12" fill="#f2f2f2" stroke="#333"/><text x="560" y="270">Checkpoint</text>
+  </g>
+  <g stroke="#444" stroke-width="2" fill="none">
+    <path d="M180 155 L240 90"/><path d="M180 155 L240 225"/><path d="M410 225 L480 155"/><path d="M640 155 L710 155"/><path d="M785 190 C760 250 650 250 640 225"/><path d="M560 190 L560 235"/>
+  </g>
+</svg>
