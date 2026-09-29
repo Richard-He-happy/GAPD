@@ -1,6 +1,6 @@
 # GAPD
 
-**Genetic Algorithm-Guided Peptide Sequence Search (Privacy-Preserving Public Demo).**
+**Genetic Algorithm-Guided Peptide Sequence Search (Privacy-Preserving Public Demo)**
 
 > [!IMPORTANT]
 > **Public Release / Privacy-Preserving Demo**
