@@ -9,6 +9,13 @@
 >
 > The code in this repository is a standalone demonstration implementation. It is intentionally separated from the unpublished research implementation and must not be interpreted as a reconstruction of that implementation.
 
+> [!IMPORTANT]
+> **公开版本 / 隐私保护演示**
+>
+> 本仓库是 GAPD 的隐私保护公开演示版本。研究专用算法、参数、实验配置、真实靶点、候选数据、详细/原始研究结果及其他未公开科研内容均被有意保留在公开仓库之外。下方仅公开一项汇总层面的性能结果。
+>
+> 本仓库代码是独立的演示实现，与未发表科研实现刻意隔离，不应被视为真实研究实现的重构版本。
+
 ## Overview
 
 GAPD demonstrates a modular peptide-search workflow in which a search policy proposes sequences and an evaluator assigns scores. The public package contains an independent, textbook-style genetic policy, deterministic synthetic evaluation, optional generic AutoDock-GPU integration for externally prepared ligands, score caching, checkpoint/resume, a CLI, tests, and documentation.
