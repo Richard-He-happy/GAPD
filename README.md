@@ -1,6 +1,6 @@
 # GAPD
 
-**Genetic-algorithm-inspired peptide sequence search for expensive black-box evaluation.**
+**Genetic Algorithm-Guided Peptide Sequence Search (Privacy-Preserving Public Demo).**
 
 > [!IMPORTANT]
 > **Public Release / Privacy-Preserving Demo**
