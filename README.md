@@ -129,7 +129,7 @@ No open-source license is currently granted. All rights are reserved.
 
 # 中文版本
 
-**GAPD：基于遗传算法启发的多肽序列搜索（隐私保护公开演示版）。**
+**GAPD：基于遗传算法引导的多肽序列搜索（隐私保护公开演示版）。**
 
 > [!IMPORTANT]
 > **公开版本 / 隐私保护演示**
